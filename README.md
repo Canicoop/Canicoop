@@ -26,7 +26,11 @@ A app que uso todos os dias para gerir o treino, o peso e as finanças. É uma w
 #### Agora
 
 <!-- agora:inicio -->
-A atualizar…
+- fix(ui): merge the classes of buttonVariants, em [levelup](https://github.com/Canicoop/levelup/commit/8c59fff0f4cae1da94a4c9b6f94ee7c6beda4271), há 3 dias
+- feat(finance): add the month summary and the transaction list, em [levelup](https://github.com/Canicoop/levelup/commit/173420e956c11d1a61676f54355452fcafb0ac0b), há 3 dias
+- feat(finance): add the categories screen, em [levelup](https://github.com/Canicoop/levelup/commit/b124d5236b7ab7add69634a9b30c9c85d5bff4ce), há 3 dias
+- feat(finance): load the finance pages lazily, em [levelup](https://github.com/Canicoop/levelup/commit/c5c57508a94cc2e27d4fd07fcf57935b4c0c706c), há 3 dias
+- feat(finance): add the finance writes, em [levelup](https://github.com/Canicoop/levelup/commit/8ad5c4d15efb8f7358494e5a3b8bc2c28cdfcdd9), há 3 dias
 <!-- agora:fim -->
 
 [LinkedIn](https://www.linkedin.com/in/vitor-cani%C3%A7o/)
